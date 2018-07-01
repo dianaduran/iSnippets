@@ -1,0 +1,11 @@
+C:\Users\diana\source\repos\iSnippets\iSnippets\bin\Debug\netcoreapp2.0\iSnippets.deps.json
+C:\Users\diana\source\repos\iSnippets\iSnippets\bin\Debug\netcoreapp2.0\iSnippets.runtimeconfig.json
+C:\Users\diana\source\repos\iSnippets\iSnippets\bin\Debug\netcoreapp2.0\iSnippets.runtimeconfig.dev.json
+C:\Users\diana\source\repos\iSnippets\iSnippets\bin\Debug\netcoreapp2.0\iSnippets.dll
+C:\Users\diana\source\repos\iSnippets\iSnippets\obj\Debug\netcoreapp2.0\iSnippets.csprojAssemblyReference.cache
+C:\Users\diana\source\repos\iSnippets\iSnippets\obj\Debug\netcoreapp2.0\iSnippets.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\iSnippets\iSnippets\obj\Debug\netcoreapp2.0\iSnippets.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\iSnippets\iSnippets\obj\Debug\netcoreapp2.0\iSnippets.AssemblyInfo.cs
+C:\Users\diana\source\repos\iSnippets\iSnippets\bin\Debug\netcoreapp2.0\iSnippets.pdb
+C:\Users\diana\source\repos\iSnippets\iSnippets\obj\Debug\netcoreapp2.0\iSnippets.dll
+C:\Users\diana\source\repos\iSnippets\iSnippets\obj\Debug\netcoreapp2.0\iSnippets.pdb
